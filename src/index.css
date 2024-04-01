@@ -33,7 +33,7 @@ h1 {
 .app:before {
   content: '';
   /* background: url('./assests/sunrise.jpeg'); */
-  background: url('./assests/sunrise.jpeg');
+  background: url('./assests/bg.jpg');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
